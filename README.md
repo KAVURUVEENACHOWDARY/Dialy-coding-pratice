@@ -5,6 +5,10 @@
 
 --> Day 2: Solved LC 194 -  Transpose File(Shell, AWK) --> Handles irregular input and variable columns
 
+--> Day 3: Solved LC 4 - Median of Two Sorted Arrays(Binary Search)
+
+--> Day 4: Solved LC 3650 - Minimum cost path with edge reversals
+
 
 
 

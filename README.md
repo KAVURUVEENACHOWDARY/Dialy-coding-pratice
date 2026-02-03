@@ -1,3 +1,22 @@
+# Status Update
+## 90 Days Challenge — A Reality Check
+
+I took up this challenge with excitement, but job tension, stress, and distractions pulled me off track.
+
+This failure taught me something important:
+👉 discipline > motivation  
+👉 consistency > intensity  
+
+I’m not quitting. I’m recalibrating.
+
+The journey continues. 🔥
+
+
+
+
+
+
+
 # Dialy-coding-pratice
 ****90 Days LeetCode Challenge: Daily problem-solving to strengthen DSA skills and prepare for coding interviews.****
 

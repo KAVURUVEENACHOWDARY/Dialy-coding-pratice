@@ -28,6 +28,7 @@ The journey continues. 🔥
 
 --> Day 4: Solved LC 3650 - Minimum cost path with edge reversals
 
+--> Day 5: Solved LC 3651 - Minimum cost path with teleportations
 
 
 
